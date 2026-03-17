@@ -2,9 +2,6 @@
 
 A simplified property listing application similar to MagicBricks, built with the MERN stack (MongoDB, Express, React, Node.js).
 
-## Live Demo
-
-[View Live Demo](https://magicbricks-ten.vercel.app) <!-- Replace with your actual deployed URL -->
 
 ## Features
 
